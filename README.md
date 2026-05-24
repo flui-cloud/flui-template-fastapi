@@ -56,7 +56,7 @@ From the UI:
 2. Connect the new repository to Flui.
 3. Click **Deploy**.
 
-Built for [Flui](https://github.com/flui-cloud/flui.api) — see the main repo for cluster setup and CLI installation.
+Built for [Flui](https://github.com/flui-cloud/flui-core) — see the main repo for cluster setup and CLI installation.
 
 ## License
 
